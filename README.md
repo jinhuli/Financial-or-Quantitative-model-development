@@ -1,3 +1,3 @@
 # Financial-or-Quantitative-model-development
 金融模型开发，论文模型开发
-https://github.com/jinhuli/Financial-or-Quantitative-model-development/blob/main/weichat.jpg
+![image](https://github.com/jinhuli/Financial-or-Quantitative-model-development/blob/main/weichat.jpg）
